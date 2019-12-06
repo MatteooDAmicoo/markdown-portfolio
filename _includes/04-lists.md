@@ -1,3 +1,3 @@
 *Soccer
-Travel 
-Technology
+*Travel 
+*Technology
