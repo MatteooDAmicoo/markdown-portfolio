@@ -1,0 +1,3 @@
+* Soccer
+* Travel 
+* Technology
