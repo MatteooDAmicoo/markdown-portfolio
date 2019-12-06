@@ -1,4 +1,3 @@
-- item
-*Soccer
-*Travel 
-*Technology
+* Soccer
+* Travel 
+* Technology
